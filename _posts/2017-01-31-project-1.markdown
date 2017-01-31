@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2017-01-31
+img: Moebius-Treasure-Hunt.jpg
+alt: image-alt
+name: Futur speaker
+affiliation: Lab xx
+title: Research in xx at xx
+abstract: TODO
+project-date:
+client:
+category:
+description:
+
+---
