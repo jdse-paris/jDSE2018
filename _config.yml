@@ -54,5 +54,17 @@ address:
 credits: <a href="mailto:contact@junior-data-science.org" target="_top">contact@junior-data-science.org</a>
 
 # Build settings
-markdown: kramdown
 permalink: pretty
+
+# Updates for compatibility with the new github environment:
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+future: true
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
