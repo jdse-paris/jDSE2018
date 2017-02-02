@@ -154,6 +154,12 @@
                 </div>
             </div>
 
+	    <div class="entry-content"> 
+              {% for post in site.posts %}
+              {{ post.content }}
+              {% endfor %}
+            </div>
+	    
 	    <ul>
 	      {% for post in site.posts %}
 	      <li>
