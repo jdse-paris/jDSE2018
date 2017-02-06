@@ -51,6 +51,7 @@ address:
   - line: Paris, France
 
 # Credits content
+
 credits: <a href="mailto:contact@junior-data-science.org" target="_top">contact@junior-data-science.org</a>
 
 # Build settings

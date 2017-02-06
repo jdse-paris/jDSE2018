@@ -81,8 +81,9 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #FFF;
-    background-image: url("img/paris.jpg");
+    color: #FFF; 
+    text-shadow: 0px 0px 5px #000; /*adding black blur to circle letters in the title*/
+    background-image: url("img/saclay.jpeg"); 
     background-size: cover;
 }
 
