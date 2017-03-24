@@ -491,3 +491,7 @@ footer .footer-below {
 }
 
 
+.navbar-collapse {
+    position: static;
+}
+
