@@ -11,7 +11,8 @@
             <div class="row">
                 {% for post in site.posts %}
                   <div class="col-sm-4  text-center portfolio-item">
-                      <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                    <!-- <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal"> -->
+                      <a href="{{ post.description }}" class="portfolio-link" data-toggle="modal">
                           <div class="caption">
                               <div class="caption-content">
                                   <i class="fa fa-search-plus fa-3x"></i>
@@ -20,6 +21,7 @@
                           <img src="img/portfolio/{{ post.img }}" class="img-responsive" style='border-radius: 50%; display: inline !important;' alt="">
                           <center>{{post.name}}</center>
                           <center>{{post.affiliation}}</center>
+                          <center>{{post.affiliation2}}</center>
                       </a>
                   </div>
                 {% endfor %}
