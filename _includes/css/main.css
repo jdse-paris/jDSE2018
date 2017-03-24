@@ -469,3 +469,21 @@ footer .footer-below {
     width: auto;        /*maintain the aspect ratio*/
     height: 80px;      /*set the height or max-height*/
 }
+
+.logosm {
+    text-align: center;  /*for centering images inside*/
+}
+.logosm img {
+    width: auto;        /*maintain the aspect ratio*/
+    height: 60px;      /*set the height or max-height*/
+}
+
+.logofitin {
+    text-align: center;  /*for centering images inside*/
+}
+.logofitin img {
+     max-height: 80px;
+     max-width: 100%;
+}
+
+
