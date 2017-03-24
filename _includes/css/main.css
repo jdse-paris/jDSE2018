@@ -486,4 +486,8 @@ footer .footer-below {
      max-width: 100%;
 }
 
+.dropdown-backdrop {
+    position: static;
+}
+
 
