@@ -1,6 +1,6 @@
 # Site settings
 title: Junior Conference on Data Science and Engineering
-title_short: JDSE Paris-Saclay 2017
+title_short:  Paris-Saclay &#35JDSE2017   #JDSE Paris-Saclay 2017 
 email:
 url: https://bigmine.github.io/jDSEParis17/
 description: "Paris-Saclay Junior Conference on Data Science and Engineering"
@@ -42,9 +42,10 @@ social:
   # - title: twitter
   #  url: # http://twitter.com/jekyllrb
   # 2016 fb page:
-  - title: facebook
-    url: https://www.facebook.com/JuniorDataScienceEngineering/
-
+  - title: twitter
+    url: https://www.twitter.com/JDSEParisSaclay
+    share: <a href="https://twitter.com/hashtag/JDSE2017?src=hash"> &#35JDSE2017 </a>
+  
 # Postal address (add as many lines as necessary)
 address:
   - line: <a href="https://www.universite-paris-saclay.fr/fr">Université Paris-Saclay</a>
@@ -68,4 +69,8 @@ future: true
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+
+
+
 
