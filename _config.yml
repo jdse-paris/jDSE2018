@@ -41,10 +41,12 @@ footer:
 social:
   # - title: twitter
   #  url: # http://twitter.com/jekyllrb
-  # 2016 fb page:
+  # 2017 twitter page:
   - title: twitter
     url: https://www.twitter.com/JDSEParisSaclay
     share: <a href="https://twitter.com/hashtag/JDSE2017?src=hash"> &#35JDSE2017 </a>
+    hashtag: "#JDSE2017"
+    
   
 # Postal address (add as many lines as necessary)
 address:

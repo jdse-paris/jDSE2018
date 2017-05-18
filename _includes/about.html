@@ -27,11 +27,12 @@
 	      <p>
      
 		<!--<a href="https://twitter.com/{{ site.twitter_username }}" style="color: #FFF"><i class="fa fa-twitter"></i> Twitter-->
-     
-		  <a href="https://twitter.com/{{ site.author.twitter }}" style="color: #FFF">
-		  <i class="fa fa-twitter"></i> Follow us on twitter!    #JDSE2017
-		  </a>
-		 
+		{% for network in site.social %}
+		{{ network.share }}
+		<br>
+                  <a href="{{ network.url }}"style="color: #FFF"><i class="fa fa-fw fa-{{ network.title }}"></i>  Follow us on {{ network.title }}! </a>
+		  {{ network.hashtag }} 
+		  {% endfor %}
 	      </p>    
 
 	      <br>
