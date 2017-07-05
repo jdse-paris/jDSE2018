@@ -8,6 +8,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 p {
     font-size: 20px;
 }
@@ -493,5 +495,19 @@ footer .footer-below {
 
 .navbar-collapse {
     position: static;
+}
+
+.navbar-custom {
+    font-size: small
+}
+
+aff {
+    font-size: x-small
+    font-style: italic;
+}
+
+.affil {
+    font-size: small;
+    font-style: italic;
 }
 
