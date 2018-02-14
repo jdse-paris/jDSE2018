@@ -1,11 +1,11 @@
 # Site settings
 title: Junior Conference on Data Science and Engineering
-title_short:  Paris-Saclay &#35JDSE2017   #JDSE Paris-Saclay 2017 
+title_short:  Paris-Saclay &#35JDSE2018   #JDSE Paris-Saclay 2018
 email:
-url: https://bigmine.github.io/jDSEParis17/
+url: https://jdse-paris.github.io/jDSEParis18/
 description: "Paris-Saclay Junior Conference on Data Science and Engineering"
-meta_author: Jacob Montiel maj 2017 Flora Jay
-skills: "Paris-Saclay, 14th-15th September 2017"
+meta_author: Jacob Montiel maj 2017 Flora Jay maj 2018 Olivier Fercoq
+skills: "Paris-Saclay, 12th-13th September 2018"
 
 # Google webmaster tools
 google_verify:
@@ -44,8 +44,8 @@ social:
   # 2017 twitter page:
   - title: twitter
     url: https://www.twitter.com/JDSEParisSaclay
-    share: <a href="https://twitter.com/hashtag/JDSE2017?src=hash"> &#35JDSE2017 </a>
-    hashtag: "#JDSE2017"
+    share: <a href="https://twitter.com/hashtag/JDSE2018?src=hash"> &#35JDSE2018 </a>
+    hashtag: "#JDSE2018"
     
   
 # Postal address (add as many lines as necessary)
@@ -55,7 +55,9 @@ address:
 
 # Credits content
 
-credits: <a href="mailto:contact@junior-data-science.org" target="_top">contact@junior-data-science.org</a>
+credits: 
+  <a href="mailto:olivier.fercoq@telecom-paristech.fr" target="_top">olivier.fercoq@telecom-paristech.fr</a>
+  <a href="mailto:fatiha.sais@lri.fr; " target="_top">fatiha.sais@lri.fr</a>
 
 # Build settings
 permalink: pretty
