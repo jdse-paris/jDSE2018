@@ -1,6 +1,3 @@
-Freelancer Jekyll theme
-=========================
-
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
 ## How to use
@@ -30,3 +27,6 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
+=======
+# jDSEParis18
+Paris-Saclay Junior Conference on Data Science and Engineering
