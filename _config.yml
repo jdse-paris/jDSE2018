@@ -56,8 +56,7 @@ address:
 # Credits content
 
 credits: 
-  <a href="mailto:olivier.fercoq@telecom-paristech.fr" target="_top">olivier.fercoq@telecom-paristech.fr</a>
-  <a href="mailto:fatiha.sais@lri.fr; " target="_top">fatiha.sais@lri.fr</a>
+  <a href="mailto:contact@junior-data-science.org" target="_top">contact@junior-data-science.org</a>
 
 # Build settings
 permalink: pretty
